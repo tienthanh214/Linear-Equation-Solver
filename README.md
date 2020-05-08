@@ -1,5 +1,6 @@
 # Linear-Equation-Solver
 A GUI help solve linear equation step-by-step using Gauss elimination algorithm
+
 Download and run /Debug/LinearEquation.exe
 
 Ở app này có 3 phần chính
