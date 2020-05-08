@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(17,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(18,22): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(29,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(30,22): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(52,23): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\Gauss.h(56,33): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\MyForm.h(256,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\MyForm.h(257,22): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\MyForm.h(267,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\MyForm.h(268,22): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudio\Project\LinearEquation\LinearEquation\MyForm.h(277,22): warning C4018:  '<': signed/unsigned mismatch
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LinearEquation.vcxproj -> D:\VisualStudio\Project\LinearEquation\Debug\LinearEquation.exe
